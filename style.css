@@ -1,0 +1,21 @@
+
+.container-flud{
+    padding: 5% 15%;
+    text-align: center;
+ 
+}
+
+
+.car{
+    background-color:hsl(179, 100%, 13%) ;
+}
+.card{
+  padding: 5%;
+}
+btn{
+    background-color:hsl(179, 100%, 13%) ;
+    border-radius: 60%;
+}
+h4{
+    color: aliceblue;
+}
